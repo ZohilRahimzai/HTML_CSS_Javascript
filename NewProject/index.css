@@ -1,8 +1,44 @@
+#firstdiv {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    gap: 800px;
+
+
+}
+
 #firstheading {
 
 
     color: rgb(13, 155, 155);
+    margin-left: 80px;
+    margin-top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
 
+}
+
+#navbar {
+
+    margin-top: 55px;
+    margin-bottom: 100px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+
+    border: 2px solid black;
+    border-radius: 20px;
+
+    padding: 8px 14px;
+
+
+}
+
+
+a{
+
+    text-decoration: none;
+    color: black;
 
 }
