@@ -3,7 +3,7 @@
     display: flex;
     flex-direction: row;
     justify-content: start;
-    gap: 800px;
+    gap: 760px;
 
 
 }
@@ -15,6 +15,7 @@
     margin-left: 80px;
     margin-top: 50px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 33px;
 
 
 }
@@ -40,5 +41,24 @@ a{
 
     text-decoration: none;
     color: black;
+
+}
+
+#Sdiv {
+
+
+    display: flex;
+
+
+}
+
+#zohilpicture {
+
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 50%;
+
+    margin-left: 80px;
+    margin-top: -60px;
 
 }
