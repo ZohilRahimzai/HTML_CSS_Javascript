@@ -149,3 +149,28 @@ a{
 
 
 }
+
+
+
+#ct1 {
+
+
+    text-align: center;
+    color: rgb(13, 155, 155);
+
+
+}
+
+#contact {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background-color: rgba(13, 155, 155, 0.275);
+    border: 0px solid black;
+    border-radius: 20px;
+
+    padding: 4px 6px;
+
+}
